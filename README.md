@@ -26,7 +26,9 @@ Hi, I am Android Developer with 1+ years of Experience in building scalable and 
 
 ### Projects
 #### Terraform 
-[**Single Tier Infrastructure**](https://github.com/) <br />A digital diary and mood tracking app that helps you in keeping track of your mood and productivity throughout the month/year.
+[**My Music App**](https://github.com/sagarpowar/My_Audio) <br />	It typically displays the music list through menu buttons. The user can view the list of music and use the buttons to play or pause songs.
+<br />
+[**Cammera App**](https://github.com/sagarpowar/Cammeraapp) <br /> A camera app designed to help you capture stunning photos with ease. It stores the captured photos in your storage.
 <br />
 
 ⭐ From [Sagar Powar](https://github.com/sagarpowar)
